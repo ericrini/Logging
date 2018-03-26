@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "packOptions": {
     "repository": {
       "type": "git",
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "System.Runtime.InteropServices.RuntimeInformation": "4.0.0",
-    "Microsoft.Extensions.Configuration.Abstractions": "1.0.2",
-    "Microsoft.Extensions.Logging.Abstractions": "1.0.2"
+    "Microsoft.Extensions.Configuration.Abstractions": "1.0.3",
+    "Microsoft.Extensions.Logging.Abstractions": "1.0.3"
   },
   "frameworks": {
     "net451": {
@@ -33,7 +33,7 @@
     },
     "netstandard1.3": {
       "dependencies": {
-        "System.Console": "4.0.0",
+        "System.Console": "4.0.1-servicing-26320-06",
         "System.Threading": "4.0.11"
       }
     }
